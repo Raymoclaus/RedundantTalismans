@@ -1,0 +1,498 @@
+Mastery Jewel 2	
+Master's Touch Lv 1
+Grants a 20% chance of no sharpness loss while active.
+Handicraft Jewel 3	
+Handicraft Lv 1
+Weapon sharpness +10
+Fate Jewel 3	
+Good Luck Lv 1
+Slightly increases luck.
+Hellfire Jewel 3	
+Hellfire Cloak Lv 1
+Reduces damage from hellfire.
+Leap Jewel 3	
+Jump Master Lv 1
+Negates knockback during jumps.
+Salvo Jewel 3	
+Rapid Fire Up Lv 1
+Rapid fire damage +5%
+Thrift Jewel 2	
+Spare Shot Lv 1
+Activates 3% of the time.
+Razor Jewel 2	
+Razor Sharp Lv 1
+Activates 10% of the time.
+Spread Jewel 3	
+Spread Up Lv 1
+Slightly increases the power of Spread Ammo, Shrapnel Ammo, and Spread-type arrows.
+Pierce Jewel 3	
+Pierce Up Lv 1
+Slightly increases the power of Piercing Ammo and Piercing-type arrows.
+Forceshot Jewel 3	
+Normal/Rapid Up Lv 1
+Slightly increases the power of Normal Ammo and Rapid-type arrows.
+Sharp Jewel 2	
+Protective Polish Lv 1
+Effect lasts 30 seconds.
+Blast Jewel 2	
+Blast Attack Lv 1
+Blast buildup +5% Bonus: +1
+Sleep Jewel 2	
+Sleep Attack Lv 1
+Sleep buildup +5% Bonus: +1
+Paralyzer Jewel 2	
+Paralysis Attack Lv 1
+Paralysis buildup +5% Bonus: +1
+Throttle Jewel 2	
+Latent Power Lv 1
+While active, increases affinity by 10% and reduces stamina depletion by 30%.
+Crisis Jewel 2	
+Resuscitate Lv 1
+Attack +5 while active.
+Furor Jewel 2	
+Resentment Lv 1
+Attack +5 while active.
+Flawless Jewel 2	
+Peak Performance Lv 1
+Attack +5 while active.
+Challenger Jewel 2	
+Agitator Lv 1
+Attack +4 and affinity +3% while active.
+Tenderizer Jewel 2	
+Weakness Exploit Lv 1
+Attacks that hit weak spots have 15% increased affinity.
+Critical Jewel 2	
+Critical Boost Lv 1
+Increases damage dealt by critical hits to 30%.
+Capacity Jewel 3	
+Ammo Up Lv 1
+Expands clip size for some ammo types.
+Guardian Jewel 3	
+Offensive Guard Lv 1
+Attack +5% while active.
+Fungiform Jewel 3	
+Mushroomancer Lv 1
+Lets you digest blue mushrooms and toadstools.
+Draw Jewel 3	
+Critical Draw Lv 1
+Affinity +10%
+Precise Jewel 2	
+Ballistics Lv 1
+Slightly extends range.
+Crit Element Jewel 2	
+Critical Element Lv 1
+Grants elemental damage +5% while active.
+Artillery Jewel 2	
+Artillery Lv 1
+Increases power of each attack by 10% and reduces Wyvern's Fire cooldown by 15%.
+Sprinter Jewel 2	
+Marathon Runner Lv 1
+Reduces continuous stamina depletion by 15%.
+Charger Jewel 2	
+Focus Lv 1
+5% faster gauge fill rate and 5% faster charge times.
+Mind's Eye Jewel 2	
+Mind's Eye Lv 1
+50% chance of your attacks not being deflected. (+10% damage to hard targets when activated).
+Potential Jewel 2	
+Heroics Lv 1
+While active, increases defense by 50 points.
+Trueshot Jewel 2	
+Special Ammo Boost Lv 1
+Increases power of bowgun special ammo and Dragon Piercer by 10%.
+Magazine Jewel 2	
+Load Shells Lv 1
+Increases ammo and coating reloading speed.
+Shield Jewel 2	
+Guard Up Lv 1
+Reduces damage taken by 30%.
+Ironwall Jewel 2	
+Guard Lv 1
+Very slightly decreases the impact of attacks.
+Refresh Jewel 2	
+Stamina Surge Lv 1
+Stamina recovery speed +10%
+Enhancer Jewel 2	
+Power Prolonger Lv 1
+Slightly boosts the duration weapons are powered up.
+Mighty Jewel 2	
+Maximum Might Lv 1
+While active, increases affinity by 10%.
+Attack Jewel 2	
+Attack Boost Lv 1
+Attack +3
+Expert Jewel 2	
+Critical Eye Lv 1
+Affinity +5%
+Quickswitch Jewel 2	
+Rapid Morph Lv 1
+Speed +10%
+Absorber Jewel 1	
+Recoil Down Lv 1
+Recoil -1
+Blunt Jewel 2	
+Bludgeoner Lv 1
++5% attack power when your weapon sharpness gauge is yellow or lower.
+Quickload Jewel 1	
+Reload Speed Lv 1
+Bowgun speed +1. Improves bow handling.
+Steadfast Jewel 1	
+Stun Resistance Lv 1
+Reduces the duration of stun by 60%.
+Footing Jewel 2	
+Tremor Resistance Lv 1
+Nullifies minor ground tremors.
+Earplug Jewel 3	
+Earplugs Lv 1
+Reduces the effects of weak monster roars.
+Counter Jewel 2	
+Counterstrike Lv 1
+Attack +10 after activation.
+Bubble Jewel 2	
+Bubbly Dance Lv 1
+Reduces the effects of major bubbleblight.
+Sniper Jewel 1	
+Steadiness Lv 1
+Deviation -1
+Gambit Jewel 2	
+Punishing Draw Lv 1
+Draw attacks deal a small amount of stun damage and get attack +3.
+Jumping Jewel 2	
+Evade Extender Lv 1
+Slightly extends evasion distance.
+Evasion Jewel 2	
+Evade Window Lv 1
+Very slightly increases invulnerability window.
+Brace Jewel 1	
+Flinch Free Lv 1
+Prevents knockbacks.
+Sheath Jewel 2	
+Quick Sheathe Lv 1
+Slightly increases sheathing speed.
+Wind Res Jewel 1	
+Windproof Lv 1
+Negates minor wind pressure.
+KO Jewel 2	
+Slugger Lv 1
+Stun power +20%
+Friendship Jewel 2	
+Wide-Range Lv 1
+Items affect nearby allies with 33% of their efficacy.
+Destroyer Jewel 2	
+Partbreaker Lv 1
+Part damage +10%
+Resistor Jewel 2	
+Blight Resistance Lv 1
+Reduces the duration of all elemental blights by 50%.
+Gobbler Jewel 2	
+Speed Eating Lv 1
+Slightly increases eating speed.
+Protection Jewel 2	
+Divine Blessing Lv 1
+While active, reduces damage taken by 15%.
+Wall Run Jewel 2	
+Wall Runner Lv 1
+Reduces stamina consumption by 25% while wall running.
+Wirebug Jewel 2	
+Wirebug Whisperer Lv 1
+Extends the duration you can keep a Wirebug by 30%.
+Grinder Jewel 1	
+Speed Sharpening Lv 1
+Removes one cycle from the sharpening process.
+Enduring Jewel 2	
+Item Prolonger Lv 1
+Item effect duration +10%
+Recovery Jewel 1	
+Recovery Speed Lv 1
+Doubles the speed at which you heal recoverable damage.
+Medicine Jewel 2	
+Recovery Up Lv 1
+Slightly increases recovery.
+Sonorous Jewel 1	
+Horn Maestro Lv 1
+Activates skill effect.
+Drain Jewel 1	
+Stamina Thief Lv 1
+Exhaust power +20%
+Physique Jewel 2	
+Constitution Lv 1
+Reduces fixed stamina depletion by 10%.
+Venom Jewel 1	
+Poison Attack Lv 1
+Poison buildup +5% Bonus: +1
+Slider Jewel 1	
+Affinity Sliding Lv 1
+Enables skill use.
+Bomber Jewel 1	
+Bombardier Lv 1
+Explosive power +10%
+Blaze Jewel 1	
+Fire Attack Lv 1
+Fire attack +2
+Stream Jewel 1	
+Water Attack Lv 1
+Water attack +2
+Bolt Jewel 1	
+Thunder Attack Lv 1
+Thunder attack +2
+Frost Jewel 1	
+Ice Attack Lv 1
+Ice attack +2
+Dragon Jewel 1	
+Dragon Attack Lv 1
+Dragon attack +2
+Defense Jewel 1	
+Defense Boost Lv 1
+Defense +5
+Carver Jewel 1	
+Carving Pro Lv 1
+Activates skill effect.
+Rodeo Jewel 2	
+Master Mounter Lv 1
+Makes filling the Riding Gauge easier and increases ease of parrying.
+Hungerless Jewel 1	
+Hunger Resistance Lv 1
+Extends the time until your stamina cap reduces by 50%.
+Satiated Jewel 1	
+Free Meal Lv 1
+Activates 10% of the time.
+Muck Jewel 1	
+Muck Resistance Lv 1
+Reduces limits on movement speed.
+Diversion Jewel 1	
+Diversion Lv 1
+Activates skill effect.
+Dive Jewel 1	
+Leap of Faith Lv 1
+Enables skill use.
+Fortitude Jewel 2	
+Fortify Lv 1
+Increases attack by 10% and defense by 15% with each use.
+Geology Jewel 1	
+Geologist Lv 1
+Allows you to gather one extra time from bonepiles.
+Botany Jewel 1	
+Botanist Lv 1
+One extra consumable herb item per gather.
+Antiblast Jewel 1	
+Blast Resistance Lv 1
+Delays blastblight and reduces blast damage.
+Pep Jewel 1	
+Sleep Resistance Lv 1
+Reduces the duration of sleep by 30%.
+Antipara Jewel 1	
+Paralysis Resistance Lv 1
+Reduces the duration of paralysis by 30%.
+Antidote Jewel 1	
+Poison Resistance Lv 1
+Reduces the number of times you take poison damage.
+Fire Res Jewel 1	
+Fire Resistance Lv 1
+Fire resistance +6
+Water Res Jewel 1	
+Water Resistance Lv 1
+Water resistance +6
+Thunder Res Jewel 1	
+Thunder Resistance Lv 1
+Thunder resistance +6
+Ice Res Jewel 1	
+Ice Resistance Lv 1
+Ice resistance +6
+Dragon Res Jewel 1	
+Dragon Resistance Lv 1
+Dragon resistance +6
+Hard Fire Res Jewel 4	
+Fire Resistance Lv 3
+Fire resistance +20 Defense +10
+Hard Water Res Jewel 4	
+Water Resistance Lv 3
+Water resistance +20 Defense +10
+Hard Ice Res Jewel 4	
+Ice Resistance Lv 3
+Ice resistance +20 Defense +10
+Hard Thunder Res Jewel 4	
+Thunder Resistance Lv 3
+Thunder resistance +20 Defense +10
+Hard Dragon Res Jewel 4	
+Dragon Resistance Lv 3
+Dragon resistance +20 Defense +10
+Hard Botany Jewel 4	
+Botanist Lv 3
+One extra consumable herb, fruit, nut, seed, or insect item per gather.
+Hard Geology Jewel 4	
+Geologist Lv 3
+Allows you to gather one extra time from mining outcrops.
+Hard Satiated Jewel 4	
+Free Meal Lv 3
+Activates 45% of the time.
+Hard Drain Jewel 4	
+Stamina Thief Lv 3
+Exhaust power +40%
+Hard Enduring Jewel 4	
+Item Prolonger Lv 3
+Item effect duration +50%
+Hard Hungerless Jewel 4	
+Hunger Resistance Lv 3
+Prevents your stamina cap from decreasing.
+Blaze Jewel+ 2	
+Fire Attack Lv 2
+Fire attack +3
+Hard Blaze Jewel 3	
+Fire Attack Lv 3
+Fire attack +5% Bonus: +4
+Stream Jewel+ 2	
+Water Attack Lv 2
+Water attack +3
+Hard Stream Jewel 3	
+Water Attack Lv 3
+Water attack +5% Bonus: +4
+Frost Jewel+ 2	
+Ice Attack Lv 2
+Ice attack +3
+Hard Frost Jewel 3	
+Ice Attack Lv 3
+Ice attack +5% Bonus: +4
+Bolt Jewel+ 2	
+Thunder Attack Lv 2
+Thunder attack +3
+Hard Bolt Jewel 3	
+Thunder Attack Lv 3
+Thunder attack +5% Bonus: +4
+Dragon Jewel+ 2	
+Dragon Attack Lv 2
+Dragon attack +3
+Hard Dragon Jewel 3	
+Dragon Attack Lv 3
+Dragon attack +5% Bonus: +4
+Defense Jewel+ 2	
+Defense Boost Lv 2
+Defense +10
+Hard Defense Jewel 3	
+Defense Boost Lv 3
+Defense +5% Bonus: +10
+Hard Defense Jewel++ 4	
+Defense Boost Lv 5
+Defense +8% Bonus: +20 All elemental resistances +3
+Hard Bomber Jewel 4	
+Bombardier Lv 3
+Explosive power +30%
+Hard Grinder Jewel 4	
+Speed Sharpening Lv 3
+Removes three cycles from the sharpening process.
+Medicine Jewel+ 4	
+Recovery Up Lv 2
+Increases recovery.
+Physique Jewel+ 4	
+Constitution Lv 2
+Reduces fixed stamina depletion by 20%.
+Wirebug Jewel+ 4	
+Wirebug Whisperer Lv 2
+Also increases Wirefall recovery rate.
+Hard Wall Run Jewel 4	
+Wall Runner Lv 3
+Also temporarily increases attack power by wall running.
+Hard Recovery Jewel 4	
+Recovery Speed Lv 3
+Quadruples the speed at which you heal recoverable damage.
+Protection Jewel+ 4	
+Divine Blessing Lv 2
+While active, reduces damage taken by 30%.
+Gobbler Jewel+ 4	
+Speed Eating Lv 2
+Increases eating speed.
+Resistor Jewel+ 4	
+Blight Resistance Lv 2
+Reduces the duration of all elemental blights by 75%.
+Hard Friendship Jewel 3	
+Wide-Range Lv 3
+Items affect nearby allies in a wider radius with 66% of their efficacy.
+Hard Friendship Jewel+ 4	
+Wide-Range Lv 4
+Items affect nearby allies in a much wider radius with 66% of their efficacy.
+Evasion Jewel+ 4	
+Evade Window Lv 2
+Slightly increases invulnerability window.
+Gambit Jewel+ 4	
+Punishing Draw Lv 2
+Draw attacks deal a small amount of stun damage and get attack +5.
+Hard Brace Jewel 4	
+Flinch Free Lv 3
+Prevents knockbacks and tripping.
+Bubble Jewel+ 4	
+Bubbly Dance Lv 2
+Reduces major bubbleblight to minor bubbleblight and increases evasiveness while afflicted.
+KO Jewel+ 4	
+Slugger Lv 2
+Stun power +30%
+Jumping Jewel+ 4	
+Evade Extender Lv 2
+Extends evasion distance.
+Hard Wind Res Jewel 4	
+Windproof Lv 3
+Negates minor and major wind pressure and reduces the effects of dragon wind pressure.
+Refresh Jewel+ 4	
+Stamina Surge Lv 2
+Stamina recovery speed +20%
+Ironwall Jewel+ 3	
+Guard Lv 2
+Slightly decreases the impact of attacks and reduces stamina depletion by 15%.
+Shield Jewel+ 4	
+Guard Up Lv 2
+Reduces damage taken by 50%.
+Precise Jewel+ 4	
+Ballistics Lv 2
+Extends range.
+Crit Element Jewel+ 4	
+Critical Element Lv 2
+Grants elemental damage +10% while active.
+Charger Jewel+ 4	
+Focus Lv 2
+10% faster gauge fill rate and 10% faster charge times.
+Sprinter Jewel+ 4	
+Marathon Runner Lv 2
+Reduces continuous stamina depletion by 30%.
+Draw Jewel+ 4	
+Critical Draw Lv 2
+Affinity +20%
+Fungiform Jewel+ 4	
+Mushroomancer Lv 2
+Additionally lets you digest nitroshrooms and parashrooms.
+Hard Steadfast Jewel 4	
+Stun Resistance Lv 3
+Prevents stun.
+Mind's Eye Jewel+ 4	
+Mind's Eye Lv 2
+100% chance of your attacks not being deflected. (+15% damage to hard targets when activated).
+Earplug Jewel+ 4	
+Earplugs Lv 2
+Nullifies weak monster roars.
+Enhancer Jewel+ 4	
+Power Prolonger Lv 2
+Boosts the duration weapons are powered up.
+Footing Jewel+ 4	
+Tremor Resistance Lv 2
+Nullifies minor ground tremors and reduces the effects of major ground tremors.
+Hellfire Jewel+ 4	
+Hellfire Cloak Lv 2
+Increases damage from hellfire blasts.
+Fate Jewel+ 4	
+Good Luck Lv 2
+Increases luck.
+Bladescale Jewel 2	
+Bladescale Hone Lv 1
+
+Breath Jewel 3	
+Quick Breath Lv 1
+
+Flywall Jewel 1	
+Wall Runner (Boost) Lv 1
+
+Redirection Jewel 3	
+Redirection Lv 1
+
+Mighty Bow Jewel 4	
+Bow Charge Plus Lv 1
+Activates skill effect.
+Sniper Jewel+ 4	
+Steadiness Lv 2
+Deviation -2
