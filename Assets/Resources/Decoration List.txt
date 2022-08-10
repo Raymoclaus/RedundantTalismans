@@ -496,3 +496,48 @@ Activates skill effect.
 Sniper Jewel+ 4	
 Steadiness Lv 2
 Deviation -2
+Foil Jewel 3
+Tune-up Lv 1
+Increases the stats of Silencer and Shield. If neither are equipped, Reload Speed +1.
+Razor Jewel+ 4
+Razor Sharp Lv 2
+Activates 25% of the time.
+Hard Venom Jewel 4
+Poison Attack Lv 3
+Poison buildup +10% Bonus: +2
+Sharp Jewel+ 4
+Protective Polish Lv 2
+Effect lasts 60 seconds.
+Counter Jewel+ 4
+Counterstrike Lv 2
+Attack +15 after activation.
+Destroyer Jewel+ 4
+Partbreaker Lv 2
+Part damage +20%
+Cornerstone Jewel 1
+Defiance Lv 1
+While active, nullifies weak roars, wind pressure, and tremors.
+Crisis Jewel+ 4
+Resuscitate Lv 2
+Attack +10 while active.
+Sheath Jewel+ 4
+Quick Sheathe Lv 2
+Moderately increases sheathing speed.
+Charge Jewel 2
+Charge Master Lv 1
+When active, grants a slight increase to elemental damage and status buildup.
+Artillery Jewel+ 4
+Artillery Lv 2
+Increases power of each attack by 20% and reduces Wyvern's Fire cooldown by 30%.
+Trueshot Jewel+ 4
+Special Ammo Boost Lv 2
+Increases power of bowgun special ammo and Dragon Piercer by 20%.
+Magazine Jewel+ 4
+Load Shells Lv 2
+Gunlance loading capacity +1. Increases charge blade phials.
+Quickswitch Jewel+ 4
+Rapid Morph Lv 2
+Speed +20%. Morph attack damage +10%
+Hard Sniper Jewel 4
+Steadiness Lv 3
+Reduces deviation by 2 and slightly extends range.
