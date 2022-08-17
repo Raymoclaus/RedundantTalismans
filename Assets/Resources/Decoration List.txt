@@ -541,3 +541,26 @@ Speed +20%. Morph attack damage +10%
 Hard Sniper Jewel 4
 Steadiness Lv 3
 Reduces deviation by 2 and slightly extends range.
+Spiribird's Call Jewel 1
+Spiribird's Call Lv 1
+
+Phoenix Jewel 2
+Coalescence Lv 1
+
+Polisher Pro Jewel 3
+Grinder (S) Lv 1
+
+Hard Antiblast Jewel 4
+Blast Resistance Lv 3
+
+Hard Antidote Jewel 4
+Poison Resistance Lv 3
+
+Hard Antipara Jewel 4
+Paralysis Resistance Lv 3
+
+Hard Pep Jewel 4
+Sleep Resistance Lv 3
+
+Mastery Jewel+ 4
+Master's Touch Lv 2
