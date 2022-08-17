@@ -139,8 +139,8 @@ namespace RedundantTalismans
                     
                     Decoration matchingDeco = DecorationData.GetMatchingDecoration(missingSkills[i], highestTierSlot);
                     if (matchingDeco == default) break;
-                    int highestSlotIndex = GetIndexOfHighestSlotLevel(false);
-                    _slots[highestSlotIndex]._decoration = matchingDeco;
+                    int matchingSlotIndex = GetIndexOfSlotWithAtLeastGivenLevel(matchingDeco._level);
+                    _slots[matchingSlotIndex]._decoration = matchingDeco;
                     Skill.RemoveSkillLevel(matchingDeco._skill, missingSkills);
                     missingSkillFulfilled = missingSkillsCount != missingSkills.Count;
                 } while (!missingSkillFulfilled);
@@ -275,6 +275,26 @@ namespace RedundantTalismans
             }
 
             return highest;
+        }
+
+        private int GetIndexOfSlotWithAtLeastGivenLevel(uint matchingDecoLevel, bool includeSlotsWithDecorations = true)
+        {
+            uint lowest = uint.MaxValue;
+            int index = -1;
+            
+            for (int i = 0; i < _slots.Length; i++)
+            {
+                Slot slot = _slots[i];
+                if (!includeSlotsWithDecorations && slot.ContainsDecoration()) continue;
+
+                if (slot._level >= matchingDecoLevel && slot._level < lowest)
+                {
+                    lowest = slot._level;
+                    index = i;
+                }
+            }
+
+            return index;
         }
 
         private int GetIndexOfHighestSlotLevel(bool includeSlotsWithDecorations = true)
