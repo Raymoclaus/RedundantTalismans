@@ -111,7 +111,7 @@ namespace RedundantTalismans
             bool hasHigherSkillLevels = HasHigherSkillLevels(otherCopy, true);
             if (hasHigherSkillLevels) return false;
 
-            bool hasHigherTierSlot = HasHigherTierSlot(otherCopy, false);
+            bool hasHigherTierSlot = HasHigherSlotLevels(otherCopy, false);
             if (hasHigherTierSlot) return false;
 
             bool hasHighestCombinedSlotLevels = HasHighestCombinedSlotLevels(otherCopy, false);
@@ -257,11 +257,40 @@ namespace RedundantTalismans
             return skills;
         }
 
-        private bool HasHigherTierSlot(Talisman other, bool includeSlotsWithDecoration = true)
+        private int GetIndexOfNthSlot(int n, bool includeSlotsWithDecorations = true)
         {
-            uint highestSlotLevel = HighestSlotLevel(includeSlotsWithDecoration);
-            uint otherHighestSlotLevel = other.HighestSlotLevel(includeSlotsWithDecoration);
-            return highestSlotLevel > otherHighestSlotLevel;
+            int count = 0;
+            
+            for (int i = 0; i < _slots.Length; i++)
+            {
+                if (_slots[i].ContainsDecoration() && !includeSlotsWithDecorations) continue;
+
+                if (count == n) return i;
+
+                count++;
+            }
+
+            return -1;
+        }
+
+        private bool HasHigherSlotLevels(Talisman other, bool includeSlotsWithDecorations = true)
+        {
+            for (int i = 0; i < _slots.Length; i++)
+            {
+                int currentSlotIndex = GetIndexOfNthSlot(i, false);
+                int otherSlotIndex = other.GetIndexOfNthSlot(i, false);
+
+                if (currentSlotIndex == -1 && otherSlotIndex == -1) return false;
+
+                if (otherSlotIndex == -1) return true;
+
+                uint currentSlotLevel = _slots[currentSlotIndex]._level;
+                uint otherSlotLevel = other._slots[otherSlotIndex]._level;
+
+                if (currentSlotLevel > otherSlotLevel) return true;
+            }
+
+            return false;
         }
 
         private uint HighestSlotLevel(bool includeSlotsWithDecorations = true)
