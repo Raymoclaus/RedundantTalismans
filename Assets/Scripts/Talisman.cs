@@ -1,7 +1,6 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using UnityEngine;
 
 namespace RedundantTalismans
 {
@@ -16,13 +15,13 @@ namespace RedundantTalismans
             SKILLS_STARTER = "",
             SLOTS_STARTER = "Slots: ";
 
-        public Talisman(Skill[] skills, Slot[] slots)
+        private Talisman(Skill[] skills, Slot[] slots)
         {
             _skills = skills;
             _slots = slots;
         }
 
-        public Talisman Copy()
+        private Talisman Copy()
         {
             Skill[] skills = new Skill[_skills.Length];
             Array.Copy(_skills, skills, _skills.Length);
@@ -111,7 +110,7 @@ namespace RedundantTalismans
             bool hasHigherSkillLevels = HasHigherSkillLevels(otherCopy, true);
             if (hasHigherSkillLevels) return false;
 
-            bool hasHigherTierSlot = HasHigherSlotLevels(otherCopy, false);
+            bool hasHigherTierSlot = HasHigherSlotLevels(otherCopy);
             if (hasHigherTierSlot) return false;
 
             bool hasHighestCombinedSlotLevels = HasHighestCombinedSlotLevels(otherCopy, false);
@@ -139,7 +138,7 @@ namespace RedundantTalismans
                     
                     Decoration matchingDeco = DecorationData.GetMatchingDecoration(missingSkills[i], highestTierSlot);
                     if (matchingDeco == default) break;
-                    int matchingSlotIndex = GetIndexOfSlotWithAtLeastGivenLevel(matchingDeco._level);
+                    int matchingSlotIndex = GetIndexOfSlotWithAtLeastGivenLevel(matchingDeco._level, false);
                     _slots[matchingSlotIndex]._decoration = matchingDeco;
                     Skill.RemoveSkillLevel(matchingDeco._skill, missingSkills);
                     missingSkillFulfilled = missingSkillsCount != missingSkills.Count;
@@ -273,7 +272,7 @@ namespace RedundantTalismans
             return -1;
         }
 
-        private bool HasHigherSlotLevels(Talisman other, bool includeSlotsWithDecorations = true)
+        private bool HasHigherSlotLevels(Talisman other)
         {
             for (int i = 0; i < _slots.Length; i++)
             {
@@ -320,26 +319,6 @@ namespace RedundantTalismans
                 {
                     lowest = slot._level;
                     index = i;
-                }
-            }
-
-            return index;
-        }
-
-        private int GetIndexOfHighestSlotLevel(bool includeSlotsWithDecorations = true)
-        {
-            uint highest = 0;
-            int index = -1;
-
-            for (uint i = 0; i < _slots.Length; i++)
-            {
-                Slot slot = _slots[i];
-                if (!includeSlotsWithDecorations && slot.ContainsDecoration()) continue;
-
-                if (slot._level > highest)
-                {
-                    highest = slot._level;
-                    index = (int)i;
                 }
             }
 

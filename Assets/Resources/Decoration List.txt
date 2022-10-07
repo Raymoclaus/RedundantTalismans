@@ -564,3 +564,54 @@ Sleep Resistance Lv 3
 
 Mastery Jewel+ 4
 Master's Touch Lv 2
+
+Paralyzer Jewel+ 4
+Paralysis Attack Lv 2
+
+Sleep Jewel+ 4
+Sleep Attack Lv 2
+
+Blast Jewel+ 4
+Blast Attack Lv 2
+
+Foray Jewel 2
+Foray Lv 1
+
+Mighty Jewel+ 4
+Maximum Might Lv 2
+
+Chain Jewel 2
+Burst Lv 1
+
+Phoenix Jewel+ 4
+Coalescence Lv 2
+
+Haze Jewel 1
+Chameleos Blessing Lv 1
+
+Handicraft Jewel+ 4
+Handicraft Lv 2
+
+Spread Jewel+ 4
+Spread Up Lv 2
+
+Pierce Jewel+ 4
+Pierce Up Lv 2
+
+Forceshot Jewel+ 4
+Normal/Rapid Up Lv 2
+
+Hard Blaze Jewel+ 4
+Fire Attack Lv 4
+
+Hard Stream Jewel+ 4
+Water Attack Lv 4
+
+Hard Frost Jewel+ 4
+Ice Attack Lv 4
+
+Hard Bolt Jewel+ 4
+Thunder Attack Lv 4
+
+Hard Dragon Jewel+ 4
+Dragon Attack Lv 4

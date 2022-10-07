@@ -35,6 +35,7 @@ namespace RedundantTalismans
 
 		public void ClearAllContents()
 		{
+			_entries.Clear();
 			holder.DestroyAllChildren();
 		}
 
