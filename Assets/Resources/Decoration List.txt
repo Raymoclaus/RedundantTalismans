@@ -615,3 +615,42 @@ Thunder Attack Lv 4
 
 Hard Dragon Jewel+ 4
 Dragon Attack Lv 4
+
+Flawless Jewel+ 4
+Peak Performance Lv 2
+
+Ironshell Jewel 1
+Kushala Blessing Lv 1
+
+Redirection Jewel+ 4
+Redirection Lv 2
+
+Flamescale Jewel 1
+Teostra Blessing Lv 1
+
+Throttle Jewel+ 4
+Latent Power Lv 2
+
+Polisher Pro Jewel+ 4
+Grinder (S) Lv 2
+
+Charge Jewel+ 4
+Charge Master Lv 2
+
+Element Exploit Jewel 2
+Element Exploit Lv 1
+
+Backstab Jewel 2
+Sneak Attack Lv 1
+
+Guardian Jewel+ 4
+Offensive Guard Lv 2
+
+Foil Jewel+ 4
+Tune-Up Lv 2
+
+Bloodening Jewel 3
+Blood Rite Lv 1
+
+Counterattack Jewel 2
+Adrenaline Rush Lv 1
