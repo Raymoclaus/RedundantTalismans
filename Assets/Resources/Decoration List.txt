@@ -721,3 +721,11 @@ Affinity +10%
 Attack Jewel+ 4
 Attack Boost Lv 2
 Attack +6
+Bloodening Jewel+ 4
+Blood Rite Lv 2
+
+Thrift Jewel+ 4
+Spare Shot Lv 2
+
+Inspiration Jewel 1
+Inspiration Lv 1
